@@ -2,12 +2,11 @@
 
 .home__container{
     row-gap: 7rem;
-
 }
 
 .home__content{
     grid-template-columns: 116px repeat(2, 1fr);
-    padding-top: 5.5rem;
+    padding-top: 6rem;
     column-gap: 2rem;
     align-items: center;
 }
@@ -85,7 +84,7 @@
 }
 
 .home__scroll{
-    margin-top: 2rem;
+    margin-top: 4rem;
     margin-left: 9.25rem;
 }
 
