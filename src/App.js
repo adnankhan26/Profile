@@ -23,7 +23,6 @@ function App() {
         <Qualification />
         <Testimonials />
         <Contact />
-        
       </main>
       <Footer />
       <ScrollUps />
