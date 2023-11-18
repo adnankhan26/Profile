@@ -1,7 +1,7 @@
 {
   "name": "myportfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://mahmadsabir.github.io/New-Portfolio.git",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
