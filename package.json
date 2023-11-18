@@ -2,7 +2,7 @@
   "name": "myportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mahmadsabir.github.io/Sabir_Portfolio.git",
+  "homepage": "https://mahmadsabir.github.io/New-Portfolio.git",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
