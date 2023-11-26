@@ -1,8 +1,8 @@
 {
-  "name": "myportfolio",
+  "name": "Profile",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://mahmadsabir.github.io/New-Portfolio.git",
+  "homepage": "https://adnankhan26.github.io/Profile",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
